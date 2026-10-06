@@ -1,0 +1,26 @@
+# Environment
+.env
+*.env
+
+# Data (too large for GitHub — user downloads from UCI)
+data/diabetic_data.csv
+data/*.csv
+!data/tableau/.gitkeep
+!data/.gitkeep
+
+# Model binaries
+outputs/models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
