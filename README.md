@@ -1,6 +1,6 @@
 # Hospital Readmission Risk Intelligence System
 
-A full end-to-end data project that predicts **30-day hospital readmissions** for diabetic patients using SQL, Python, and Tableau — built on real clinical data from 130 US hospitals.
+A full end to end data project that predicts **30-day hospital readmissions** for diabetic patients using SQL, Python, and Tableau — built on real clinical data from 130 US hospitals.
 
 ---
 
